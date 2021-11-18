@@ -1,0 +1,26 @@
+.logout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: "Poppins", sans-serif;
+}
+.logout > h1{
+  color: #fff;
+}
+.logout__button {
+  min-width: 300px;
+  padding: 17px 30px;
+  margin-top: 20px;
+  background: black;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 3px;
+}
+
+.user__name {
+  color: #227eef;
+}
